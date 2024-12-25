@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+789-Bet Co
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`789BET <https://789-bet.co/>`_ là sân chơi hàng đầu trong lĩnh vực chơi game trực tuyến tại Việt Nam và châu Á, nổi bật với nền tảng an toàn, dịch vụ chất lượng cao và sự tin cậy từ hàng triệu người chơi. 789BET cung cấp đa dạng sản phẩm như thể thao, casino trực tuyến, slot game và xổ số, mang đến trải nghiệm phong phú với tỷ lệ cược cạnh tranh, giao diện chân thực, và cơ hội trúng thưởng hấp dẫn. Luôn không ngừng cải tiến, 789BET cam kết mang lại những giây phút giải trí đỉnh cao và giá trị vượt trội cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 219 Hòa Bình, Hiệp Tân, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0316625382. 
 
-Contents
---------
+Email: info@789-bet.co. 
 
-.. toctree::
+Website: https://789-bet.co/ 
 
-   usage
-   api
+#789bet #trangchu789bet #dangky789bet #dangnhap789bet #link789bet
